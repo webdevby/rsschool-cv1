@@ -2,9 +2,9 @@
 ## Contacts
 * Tel: +375(25) 518-27-91
 * Telegram: @hotlovestl
-* GitHub: https://github.com/webdevby
+* GitHub: https://github.com/hotlovestl
 ## About myself
-Hi! My name is Artiom and i'm trainee frontend developer. I have some basic knowledge and my aim is to become a qualified specialist.
+Hi! My name is Artiom Uradau and i'm trainee frontend developer. I have some basic theoretical knowledge and my aim is to become a qualified specialist.
 In addition, i'm stress-resistant and able to learn new technologies quickly.
 ## Skills
 * HTML
@@ -33,7 +33,7 @@ function arithmetic(a, b, operator){
 Faculty of Information Technologies and Control  
 2023
 2. The Rolling Scopes School educational program  
-2023
+2022
 ## Languages
 * Russian (native speaker)
 * English (B2)
